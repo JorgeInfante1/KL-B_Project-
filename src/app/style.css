@@ -1,15 +1,29 @@
 .nav
 {
+    height: 65px;
     color: #ffffff;
-    background-color: black;
+    background-color: #040714;
     text-align: right;
+}
+.klub
+{
+    position: absolute;
+    width: 77px;
+    height: 36px;
+    left: 88px;
+    top: 19px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 31px;
+    line-height: 36px;
 }
 span.restaurants
 {
     position: absolute;
 left: 76.11%;
 right: 15.07%;
-top: 0.84%;
+top: 3%;
 bottom: 98.43%;
 
 font-family: Roboto;
@@ -23,17 +37,16 @@ line-height: 21px;
 span.business
 {
     position: absolute;
-left: 66.67%;
-right: 26.11%;
-top: 0.84%;
-bottom: 98.43%;
+    left: 66.67%;
+    right: 26.11%;
+    top: 3%;
+    bottom: 98.43%;
 
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 18px;
-line-height: 21px;
-    color: #ffffff;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
     
 }
 
@@ -41,8 +54,12 @@ line-height: 21px;
 {
     position: absolute;
     width: 130px;
-    height: 41px;
-    left: 1255px;
-    top: 15px;
-    background-color: blueviolet;
+    height: 40px;
+    left: 88%;
+    top: 13px;
+    color: #ffffff;
+    background: linear-gradient(180deg, #5200ff 0%, #9E00AC 100%);
+
+    font-family: 'Times New Roman', Times, serif;
+    font-variant-position: normal;
 }
